@@ -1,0 +1,14 @@
+!data/output/cache/README.md
+data/output/cache
+
+!data/output/logs/fashionnet/README.md
+data/output/logs
+
+!data/output/models/fashionnet/README.md
+data/output/models
+
+!data/output/submits/README.md
+data/output/submits
+
+__pycache__
+sftp.json
